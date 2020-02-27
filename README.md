@@ -1,4 +1,4 @@
-# sudoku
+# Tik Tac Toe
 
 A new Flutter application.
 
